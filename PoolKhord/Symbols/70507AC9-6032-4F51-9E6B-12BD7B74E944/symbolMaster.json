@@ -1,0 +1,162 @@
+{
+  "_class": "symbolMaster",
+  "allowsOverrides": true,
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 39,
+  "clippingMaskMode": 0,
+  "do_objectID": "70507AC9-6032-4F51-9E6B-12BD7B74E944",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 75,
+    "width": 345,
+    "x": 1683,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "4A0B95FB-F9EB-44D6-AE35-2A3DEA36F27E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8D020841-8606-4B72-B115-0FFB2A8CB856"
+    },
+    {
+      "class": "shapePath",
+      "id": "3DE28067-EE01-4FCA-9D11-9BF95CF37A1F"
+    },
+    {
+      "class": "shapePath",
+      "id": "333DEF01-0C71-4411-A462-29A348865B0A"
+    },
+    {
+      "class": "oval",
+      "id": "7A84ED6A-69F9-4046-8E47-4C0BD4F9EC15"
+    },
+    {
+      "class": "oval",
+      "id": "F4BE0524-E55C-4D1B-BFA5-DDFE9E0808F8"
+    },
+    {
+      "class": "oval",
+      "id": "DB20E039-3B43-4F6B-9173-21EAC1CFFEB5"
+    },
+    {
+      "class": "shapePath",
+      "id": "4FEFD537-A787-49C4-8BB8-FB55E8A39295"
+    }
+  ],
+  "maintainScrollPosition": false,
+  "name": "Logo type",
+  "nameIsFixed": false,
+  "overrideProperties": [
+  ],
+  "presetDictionary": {
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "197C2659-9311-4B25-B6CB-CB753B446F5B",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "6B1906B1-4E2F-43B8-84B3-A31995EDC8C1",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}
